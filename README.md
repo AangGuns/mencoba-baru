@@ -1,2 +1,2 @@
 # mencoba-baru
-mencoba coba 
+mencoba coba fitur dari github saja lord
